@@ -1,8 +1,8 @@
 i_love_avito (парсер авито)
 ============
 
-A slow avito.ru parser without threads or proxies
-(медленный парсер авито без тредов и прокси)
+An avito.ru parser without threads or proxies
+(парсер авито без тредов и прокси)
 
 Если нужно добавить прокси/многопоточность или что-либо доработать - обращайтесь ;)
 
